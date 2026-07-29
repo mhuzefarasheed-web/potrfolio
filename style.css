@@ -74,14 +74,14 @@ body {
   position: fixed; top: 1.5rem; left: 50%; transform: translateX(-50%); z-index: 1000;
   width: 90%; max-width: 1200px; border-radius: 99px;
   display: flex; align-items: center; justify-content: space-between;
-  padding: 0.8rem 2.0rem;
+  padding: 0.8rem 1.0rem;
   background: rgba(8,5,15,0.4);
   backdrop-filter: blur(24px) saturate(1.4);
   border: 1px solid rgba(255,255,255,0.05);
   transition: all var(--transition);
 }
 .navbar.scrolled {
-  padding: 0.7rem 2.0rem;
+  padding: 0.7rem 1.0rem;
   background: rgba(8,5,15,0.88);
   border-color: var(--glass-border);
   box-shadow: 0 10px 40px rgba(0,0,0,0.5), 0 0 20px rgba(192,38,211,0.1);
