@@ -81,7 +81,7 @@ body {
   transition: all var(--transition);
 }
 .navbar.scrolled {
-  padding: 0.7rem 2.5rem;
+  padding: 0.7rem 3.0rem;
   background: rgba(8,5,15,0.88);
   border-color: var(--glass-border);
   box-shadow: 0 10px 40px rgba(0,0,0,0.5), 0 0 20px rgba(192,38,211,0.1);
