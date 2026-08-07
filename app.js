@@ -466,7 +466,7 @@ if (contactForm) {
     const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`);
     
     // Open default email client
-    window.location.href = `mailto:mzeealtaf@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:mhuzefa.rasheed@gmail.com?subject=${subject}&body=${body}`;
     
     // Show UI feedback
     const btn = e.target.querySelector('button');
