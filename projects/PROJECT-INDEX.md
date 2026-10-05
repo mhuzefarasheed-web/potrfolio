@@ -19,3 +19,21 @@ This collection contains original personal lab projects aligned with my practica
 ## Positioning
 
 These are personal lab projects intended to demonstrate practical knowledge, documentation ability and problem-solving. They are not presented as production deployments unless explicitly stated and evidenced.
+
+
+## Dedicated Portfolio Pages
+
+These project pages are designed for recruiter sharing and LinkedIn Project links. They summarize each personal lab and link back to the detailed GitHub documentation.
+
+| Project | Portfolio Page |
+|---|---|
+| Enterprise IT Infrastructure & System Administration Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/enterprise-it-infrastructure-lab/ |
+| Microsoft 365 & Exchange Online Migration Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/02-microsoft-365-exchange-migration/ |
+| Microsoft Intune & Windows 11 Endpoint Management Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/03-intune-windows11-endpoint-management/ |
+| Windows 11 Imaging & Software Deployment Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/04-sccm-mdt-windows11-imaging/ |
+| Enterprise Network Segmentation, DHCP & DNS Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/05-enterprise-network-vlan-dhcp-dns/ |
+| NPS/RADIUS Secure Wi-Fi Authentication Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/06-nps-radius-secure-wifi/ |
+| IT Service Desk & ITSM Operations Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/07-it-service-desk-itsm-operations/ |
+| IT Asset Management & Inventory Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/08-snipe-it-asset-lifecycle/ |
+| PowerShell Endpoint Inventory & Audit Automation | https://mhuzefarasheed-web.github.io/potrfolio/projects/09-powershell-endpoint-audit/ |
+| Windows Security Hardening & Monitoring Lab | https://mhuzefarasheed-web.github.io/potrfolio/projects/10-security-hardening-monitoring/ |
