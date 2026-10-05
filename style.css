@@ -388,6 +388,18 @@ body {
 .cert-icon.google { background: rgba(249,115,22,0.1); color: var(--accent); }
 .cert-icon.cisco { background: rgba(139,92,246,0.1); color: var(--violet); }
 .cert-card h4 { font-size: 0.92rem; font-weight: 700; margin-bottom: 0.3rem; }
+.training-type {
+  display: inline-block;
+  margin: 0.15rem 0 0.45rem;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid rgba(139,92,246,0.28);
+  border-radius: 999px;
+  color: var(--violet);
+  background: rgba(139,92,246,0.07);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
 .cert-card p { font-size: 0.78rem; color: var(--text-3); }
 
 /* ═══ CONTACT ═══ */
