@@ -379,8 +379,24 @@ body {
 
 /* ═══ CERTIFICATIONS ═══ */
 .certs-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.2rem; }
-.cert-card { text-align: center; padding: 2rem 1.2rem; }
+.cert-card {
+  text-align: center;
+  padding: 2rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
 .cert-card:hover { transform: translateY(-4px); }
+
+/* Keep certificate buttons aligned at the same bottom position within each row */
+.cert-card > a.btn-glass,
+.cert-card > div[style*="display:flex"] {
+  margin-top: auto !important;
+  align-self: center;
+}
+.cert-card > div[style*="display:flex"] a.btn-glass {
+  margin-top: 0 !important;
+}
 .cert-icon {
   width: 52px; height: 52px; border-radius: 14px; margin: 0 auto 1rem;
   display: flex; align-items: center; justify-content: center; font-size: 1.4rem;
